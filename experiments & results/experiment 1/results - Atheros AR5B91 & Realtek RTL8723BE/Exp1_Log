@@ -1,0 +1,320 @@
+nframes: 1
+------------------------------------------------------------
+Client connecting to 10.42.0.170, UDP port 5001
+Sending 1470 byte datagrams
+UDP buffer size:  208 KByte (default)
+------------------------------------------------------------
+[  3] local 10.42.0.1 port 53001 connected with 10.42.0.170 port 5001
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0-154.0 sec   500 MBytes  27.2 Mbits/sec
+[  3] Sent 356659 datagrams
+[  3] Server Report:
+[  3]  0.0-154.1 sec   500 MBytes  27.2 Mbits/sec   0.977 ms  196/356658 (0.055%)
+[  3]  0.0-154.1 sec  1 datagrams received out-of-order
+
+******************************
+
+nframes: 2
+------------------------------------------------------------
+Client connecting to 10.42.0.170, UDP port 5001
+Sending 1470 byte datagrams
+UDP buffer size:  208 KByte (default)
+------------------------------------------------------------
+[  3] local 10.42.0.1 port 49792 connected with 10.42.0.170 port 5001
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0-116.9 sec   500 MBytes  35.9 Mbits/sec
+[  3] Sent 356659 datagrams
+[  3] Server Report:
+[  3]  0.0-117.0 sec   500 MBytes  35.9 Mbits/sec   1.040 ms    0/356658 (0%)
+[  3]  0.0-117.0 sec  1 datagrams received out-of-order
+
+******************************
+
+nframes: 3
+------------------------------------------------------------
+Client connecting to 10.42.0.170, UDP port 5001
+Sending 1470 byte datagrams
+UDP buffer size:  208 KByte (default)
+------------------------------------------------------------
+[  3] local 10.42.0.1 port 44308 connected with 10.42.0.170 port 5001
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0-104.8 sec   500 MBytes  40.0 Mbits/sec
+[  3] Sent 356659 datagrams
+[  3] Server Report:
+[  3]  0.0-104.8 sec   500 MBytes  40.0 Mbits/sec   0.591 ms    0/356658 (0%)
+[  3]  0.0-104.8 sec  1 datagrams received out-of-order
+
+******************************
+
+nframes: 4
+------------------------------------------------------------
+Client connecting to 10.42.0.170, UDP port 5001
+Sending 1470 byte datagrams
+UDP buffer size:  208 KByte (default)
+------------------------------------------------------------
+[  3] local 10.42.0.1 port 47688 connected with 10.42.0.170 port 5001
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0-96.0 sec   500 MBytes  43.7 Mbits/sec
+[  3] Sent 356659 datagrams
+[  3] Server Report:
+[  3]  0.0-96.1 sec   500 MBytes  43.7 Mbits/sec   0.679 ms    0/356658 (0%)
+[  3]  0.0-96.1 sec  1 datagrams received out-of-order
+
+******************************
+
+nframes: 5
+------------------------------------------------------------
+Client connecting to 10.42.0.170, UDP port 5001
+Sending 1470 byte datagrams
+UDP buffer size:  208 KByte (default)
+------------------------------------------------------------
+[  3] local 10.42.0.1 port 43097 connected with 10.42.0.170 port 5001
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0-91.8 sec   500 MBytes  45.7 Mbits/sec
+[  3] Sent 356659 datagrams
+[  3] Server Report:
+[  3]  0.0-91.8 sec   500 MBytes  45.7 Mbits/sec   0.616 ms    0/356658 (0%)
+[  3]  0.0-91.8 sec  1 datagrams received out-of-order
+
+******************************
+
+nframes: 6
+------------------------------------------------------------
+Client connecting to 10.42.0.170, UDP port 5001
+Sending 1470 byte datagrams
+UDP buffer size:  208 KByte (default)
+------------------------------------------------------------
+[  3] local 10.42.0.1 port 54715 connected with 10.42.0.170 port 5001
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0-89.6 sec   500 MBytes  46.8 Mbits/sec
+[  3] Sent 356659 datagrams
+[  3] Server Report:
+[  3]  0.0-89.7 sec   500 MBytes  46.8 Mbits/sec   0.320 ms    0/356658 (0%)
+[  3]  0.0-89.7 sec  1 datagrams received out-of-order
+
+******************************
+
+nframes: 7
+------------------------------------------------------------
+Client connecting to 10.42.0.170, UDP port 5001
+Sending 1470 byte datagrams
+UDP buffer size:  208 KByte (default)
+------------------------------------------------------------
+[  3] local 10.42.0.1 port 58741 connected with 10.42.0.170 port 5001
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0-86.0 sec   500 MBytes  48.8 Mbits/sec
+[  3] Sent 356659 datagrams
+[  3] Server Report:
+[  3]  0.0-86.0 sec   500 MBytes  48.8 Mbits/sec   0.384 ms    0/356658 (0%)
+[  3]  0.0-86.0 sec  1 datagrams received out-of-order
+
+******************************
+
+nframes: 8
+------------------------------------------------------------
+Client connecting to 10.42.0.170, UDP port 5001
+Sending 1470 byte datagrams
+UDP buffer size:  208 KByte (default)
+------------------------------------------------------------
+[  3] local 10.42.0.1 port 51014 connected with 10.42.0.170 port 5001
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0-84.5 sec   500 MBytes  49.7 Mbits/sec
+[  3] Sent 356659 datagrams
+[  3] Server Report:
+[  3]  0.0-84.5 sec   500 MBytes  49.6 Mbits/sec   0.353 ms    0/356658 (0%)
+[  3]  0.0-84.5 sec  1 datagrams received out-of-order
+
+******************************
+
+nframes: 9
+------------------------------------------------------------
+Client connecting to 10.42.0.170, UDP port 5001
+Sending 1470 byte datagrams
+UDP buffer size:  208 KByte (default)
+------------------------------------------------------------
+[  3] local 10.42.0.1 port 34075 connected with 10.42.0.170 port 5001
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0-83.6 sec   500 MBytes  50.2 Mbits/sec
+[  3] Sent 356659 datagrams
+[  3] Server Report:
+[  3]  0.0-83.7 sec   500 MBytes  50.1 Mbits/sec   0.403 ms    0/356658 (0%)
+[  3]  0.0-83.7 sec  1 datagrams received out-of-order
+
+******************************
+
+nframes: 10
+------------------------------------------------------------
+Client connecting to 10.42.0.170, UDP port 5001
+Sending 1470 byte datagrams
+UDP buffer size:  208 KByte (default)
+------------------------------------------------------------
+[  3] local 10.42.0.1 port 54075 connected with 10.42.0.170 port 5001
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0-82.6 sec   500 MBytes  50.8 Mbits/sec
+[  3] Sent 356659 datagrams
+[  3] Server Report:
+[  3]  0.0-82.7 sec   500 MBytes  50.7 Mbits/sec   0.388 ms    0/356658 (0%)
+[  3]  0.0-82.7 sec  1 datagrams received out-of-order
+
+******************************
+
+nframes: 11
+------------------------------------------------------------
+Client connecting to 10.42.0.170, UDP port 5001
+Sending 1470 byte datagrams
+UDP buffer size:  208 KByte (default)
+------------------------------------------------------------
+[  3] local 10.42.0.1 port 49652 connected with 10.42.0.170 port 5001
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0-82.3 sec   500 MBytes  51.0 Mbits/sec
+[  3] Sent 356659 datagrams
+[  3] Server Report:
+[  3]  0.0-82.3 sec   500 MBytes  50.9 Mbits/sec   0.231 ms    0/356658 (0%)
+[  3]  0.0-82.3 sec  1 datagrams received out-of-order
+
+******************************
+
+nframes: 12
+------------------------------------------------------------
+Client connecting to 10.42.0.170, UDP port 5001
+Sending 1470 byte datagrams
+UDP buffer size:  208 KByte (default)
+------------------------------------------------------------
+[  3] local 10.42.0.1 port 40373 connected with 10.42.0.170 port 5001
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0-81.5 sec   500 MBytes  51.5 Mbits/sec
+[  3] Sent 356659 datagrams
+[  3] Server Report:
+[  3]  0.0-81.5 sec   500 MBytes  51.4 Mbits/sec   0.296 ms    0/356658 (0%)
+[  3]  0.0-81.5 sec  1 datagrams received out-of-order
+
+******************************
+
+nframes: 13
+------------------------------------------------------------
+Client connecting to 10.42.0.170, UDP port 5001
+Sending 1470 byte datagrams
+UDP buffer size:  208 KByte (default)
+------------------------------------------------------------
+[  3] local 10.42.0.1 port 39279 connected with 10.42.0.170 port 5001
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0-81.2 sec   500 MBytes  51.6 Mbits/sec
+[  3] Sent 356659 datagrams
+[  3] Server Report:
+[  3]  0.0-81.3 sec   500 MBytes  51.6 Mbits/sec   0.325 ms    0/356658 (0%)
+[  3]  0.0-81.3 sec  1 datagrams received out-of-order
+
+******************************
+
+nframes: 14
+------------------------------------------------------------
+Client connecting to 10.42.0.170, UDP port 5001
+Sending 1470 byte datagrams
+UDP buffer size:  208 KByte (default)
+------------------------------------------------------------
+[  3] local 10.42.0.1 port 57638 connected with 10.42.0.170 port 5001
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0-80.8 sec   500 MBytes  51.9 Mbits/sec
+[  3] Sent 356659 datagrams
+[  3] Server Report:
+[  3]  0.0-80.9 sec   500 MBytes  51.9 Mbits/sec   0.475 ms    0/356658 (0%)
+[  3]  0.0-80.9 sec  1 datagrams received out-of-order
+
+******************************
+
+nframes: 15
+------------------------------------------------------------
+Client connecting to 10.42.0.170, UDP port 5001
+Sending 1470 byte datagrams
+UDP buffer size:  208 KByte (default)
+------------------------------------------------------------
+[  3] local 10.42.0.1 port 56502 connected with 10.42.0.170 port 5001
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0-82.1 sec   500 MBytes  51.1 Mbits/sec
+[  3] Sent 356659 datagrams
+[  3] Server Report:
+[  3]  0.0-82.1 sec   500 MBytes  51.1 Mbits/sec   0.285 ms    0/356658 (0%)
+[  3]  0.0-82.1 sec  1 datagrams received out-of-order
+
+******************************
+
+nframes: 16
+------------------------------------------------------------
+Client connecting to 10.42.0.170, UDP port 5001
+Sending 1470 byte datagrams
+UDP buffer size:  208 KByte (default)
+------------------------------------------------------------
+[  3] local 10.42.0.1 port 51278 connected with 10.42.0.170 port 5001
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0-80.3 sec   500 MBytes  52.2 Mbits/sec
+[  3] Sent 356659 datagrams
+[  3] Server Report:
+[  3]  0.0-80.4 sec   500 MBytes  52.2 Mbits/sec   0.285 ms    1/356658 (0.00028%)
+[  3]  0.0-80.4 sec  1 datagrams received out-of-order
+
+******************************
+
+nframes: 17
+------------------------------------------------------------
+Client connecting to 10.42.0.170, UDP port 5001
+Sending 1470 byte datagrams
+UDP buffer size:  208 KByte (default)
+------------------------------------------------------------
+[  3] local 10.42.0.1 port 32859 connected with 10.42.0.170 port 5001
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0-78.6 sec   500 MBytes  53.3 Mbits/sec
+[  3] Sent 356659 datagrams
+[  3] Server Report:
+[  3]  0.0-78.7 sec   500 MBytes  53.3 Mbits/sec   0.278 ms    0/356658 (0%)
+[  3]  0.0-78.7 sec  1 datagrams received out-of-order
+
+******************************
+
+nframes: 18
+------------------------------------------------------------
+Client connecting to 10.42.0.170, UDP port 5001
+Sending 1470 byte datagrams
+UDP buffer size:  208 KByte (default)
+------------------------------------------------------------
+[  3] local 10.42.0.1 port 43178 connected with 10.42.0.170 port 5001
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0-78.6 sec   500 MBytes  53.3 Mbits/sec
+[  3] Sent 356659 datagrams
+[  3] Server Report:
+[  3]  0.0-78.7 sec   500 MBytes  53.3 Mbits/sec   0.637 ms    0/356658 (0%)
+[  3]  0.0-78.7 sec  1 datagrams received out-of-order
+
+******************************
+
+nframes: 19
+------------------------------------------------------------
+Client connecting to 10.42.0.170, UDP port 5001
+Sending 1470 byte datagrams
+UDP buffer size:  208 KByte (default)
+------------------------------------------------------------
+[  3] local 10.42.0.1 port 50754 connected with 10.42.0.170 port 5001
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0-78.7 sec   500 MBytes  53.3 Mbits/sec
+[  3] Sent 356659 datagrams
+[  3] Server Report:
+[  3]  0.0-78.7 sec   500 MBytes  53.3 Mbits/sec   0.384 ms    0/356658 (0%)
+[  3]  0.0-78.7 sec  1 datagrams received out-of-order
+
+******************************
+
+nframes: 20
+------------------------------------------------------------
+Client connecting to 10.42.0.170, UDP port 5001
+Sending 1470 byte datagrams
+UDP buffer size:  208 KByte (default)
+------------------------------------------------------------
+[  3] local 10.42.0.1 port 34846 connected with 10.42.0.170 port 5001
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0-78.5 sec   500 MBytes  53.4 Mbits/sec
+[  3] Sent 356659 datagrams
+[  3] Server Report:
+[  3]  0.0-78.6 sec   500 MBytes  53.4 Mbits/sec   0.352 ms    0/356658 (0%)
+[  3]  0.0-78.6 sec  1 datagrams received out-of-order
+
+******************************
+

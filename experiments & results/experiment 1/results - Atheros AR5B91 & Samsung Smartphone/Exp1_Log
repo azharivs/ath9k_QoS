@@ -1,0 +1,218 @@
+NFrames = 1
+root@Mohammad-Laptop:~# iperf -c 192.168.43.1 -u -n 500M -b 100M
+------------------------------------------------------------
+Client connecting to 192.168.43.1, UDP port 5001
+Sending 1470 byte datagrams
+UDP buffer size:  208 KByte (default)
+------------------------------------------------------------
+[  3] local 192.168.43.58 port 58458 connected with 192.168.43.1 port 5001
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0-156.8 sec   500 MBytes  26.8 Mbits/sec
+[  3] Sent 356659 datagrams
+[  3] Server Report:
+[  3]  0.0-156.8 sec   498 MBytes  26.7 Mbits/sec   0.557 ms 1269/356658 (0.36%)
+[  3]  0.0-156.8 sec  1 datagrams received out-of-order
+
+****************************************************************************************
+
+NFrames = 2
+root@Mohammad-Laptop:~# iperf -c 192.168.43.1 -u -n 500M -b 100M
+------------------------------------------------------------
+Client connecting to 192.168.43.1, UDP port 5001
+Sending 1470 byte datagrams
+UDP buffer size:  208 KByte (default)
+------------------------------------------------------------
+[  3] local 192.168.43.58 port 37853 connected with 192.168.43.1 port 5001
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0-120.1 sec   500 MBytes  34.9 Mbits/sec
+[  3] Sent 356659 datagrams
+[  3] Server Report:
+[  3]  0.0-120.1 sec   494 MBytes  34.5 Mbits/sec   0.509 ms 4274/356658 (1.2%)
+[  3]  0.0-120.1 sec  2 datagrams received out-of-order
+
+****************************************************************************************
+
+NFrames = 3
+root@Mohammad-Laptop:~# iperf -c 192.168.43.1 -u -n 500M -b 100M
+------------------------------------------------------------
+Client connecting to 192.168.43.1, UDP port 5001
+Sending 1470 byte datagrams
+UDP buffer size:  208 KByte (default)
+------------------------------------------------------------
+[  3] local 192.168.43.58 port 59825 connected with 192.168.43.1 port 5001
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0-103.8 sec   500 MBytes  40.4 Mbits/sec
+[  3] Sent 356659 datagrams
+[  3] Server Report:
+[  3]  0.0-103.5 sec   491 MBytes  39.8 Mbits/sec   0.612 ms 6222/356658 (1.7%)
+[  3]  0.0-103.5 sec  1 datagrams received out-of-order
+
+****************************************************************************************
+
+NFrames = 4
+root@Mohammad-Laptop:~# iperf -c 192.168.43.1 -u -n 500M -b 100M
+------------------------------------------------------------
+Client connecting to 192.168.43.1, UDP port 5001
+Sending 1470 byte datagrams
+UDP buffer size:  208 KByte (default)
+------------------------------------------------------------
+[  3] local 192.168.43.58 port 34546 connected with 192.168.43.1 port 5001
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0-98.2 sec   500 MBytes  42.7 Mbits/sec
+[  3] Sent 356659 datagrams
+[  3] Server Report:
+[  3]  0.0-98.2 sec   495 MBytes  42.3 Mbits/sec   0.482 ms 3640/356658 (1%)
+[  3]  0.0-98.2 sec  3 datagrams received out-of-order
+
+****************************************************************************************
+
+NFrames = 5
+root@Mohammad-Laptop:~# iperf -c 192.168.43.1 -u -n 500M -b 100M
+------------------------------------------------------------
+Client connecting to 192.168.43.1, UDP port 5001
+Sending 1470 byte datagrams
+UDP buffer size:  208 KByte (default)
+------------------------------------------------------------
+[  3] local 192.168.43.58 port 59439 connected with 192.168.43.1 port 5001
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0-92.6 sec   500 MBytes  45.3 Mbits/sec
+[  3] Sent 356659 datagrams
+[  3] Server Report:
+[  3]  0.0-92.3 sec   492 MBytes  44.8 Mbits/sec   0.290 ms 5410/356658 (1.5%)
+[  3]  0.0-92.3 sec  2 datagrams received out-of-order
+
+****************************************************************************************
+
+NFrames = 6
+root@Mohammad-Laptop:~# iperf -c 192.168.43.1 -u -n 500M -b 100M
+------------------------------------------------------------
+Client connecting to 192.168.43.1, UDP port 5001
+Sending 1470 byte datagrams
+UDP buffer size:  208 KByte (default)
+------------------------------------------------------------
+[  3] local 192.168.43.58 port 51601 connected with 192.168.43.1 port 5001
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0-89.3 sec   500 MBytes  46.9 Mbits/sec
+[  3] Sent 356659 datagrams
+[  3] Server Report:
+[  3]  0.0-89.2 sec   495 MBytes  46.5 Mbits/sec   0.371 ms 3659/356658 (1%)
+[  3]  0.0-89.2 sec  1 datagrams received out-of-order
+
+****************************************************************************************
+
+NFrames = 7
+root@Mohammad-Laptop:~# iperf -c 192.168.43.1 -u -n 500M -b 100M
+------------------------------------------------------------
+Client connecting to 192.168.43.1, UDP port 5001
+Sending 1470 byte datagrams
+UDP buffer size:  208 KByte (default)
+------------------------------------------------------------
+[  3] local 192.168.43.58 port 53682 connected with 192.168.43.1 port 5001
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0-88.5 sec   500 MBytes  47.4 Mbits/sec
+[  3] Sent 356659 datagrams
+[  3] Server Report:
+[  3]  0.0-88.3 sec   494 MBytes  46.9 Mbits/sec   0.640 ms 4531/356658 (1.3%)
+[  3]  0.0-88.3 sec  1 datagrams received out-of-order
+
+****************************************************************************************
+
+NFrames = 8
+root@Mohammad-Laptop:~# iperf -c 192.168.43.1 -u -n 500M -b 100M
+------------------------------------------------------------
+Client connecting to 192.168.43.1, UDP port 5001
+Sending 1470 byte datagrams
+UDP buffer size:  208 KByte (default)
+------------------------------------------------------------
+[  3] local 192.168.43.58 port 54300 connected with 192.168.43.1 port 5001
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0-86.5 sec   500 MBytes  48.5 Mbits/sec
+[  3] Sent 356659 datagrams
+[  3] Server Report:
+[  3]  0.0-86.7 sec   497 MBytes  48.1 Mbits/sec  14.599 ms 2113/356657 (0.59%)
+[  3]  0.0-86.7 sec  1 datagrams received out-of-order
+
+****************************************************************************************
+
+NFrames = 9
+root@Mohammad-Laptop:~# iperf -c 192.168.43.1 -u -n 500M -b 100M
+------------------------------------------------------------
+Client connecting to 192.168.43.1, UDP port 5001
+Sending 1470 byte datagrams
+UDP buffer size:  208 KByte (default)
+------------------------------------------------------------
+[  3] local 192.168.43.58 port 43889 connected with 192.168.43.1 port 5001
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0-84.2 sec   500 MBytes  49.8 Mbits/sec
+[  3] Sent 356659 datagrams
+[  3] Server Report:
+[  3]  0.0-83.9 sec   496 MBytes  49.6 Mbits/sec   0.327 ms 3048/356658 (0.85%)
+[  3]  0.0-83.9 sec  1 datagrams received out-of-order
+
+****************************************************************************************
+
+NFrames = 10
+root@Mohammad-Laptop:~# iperf -c 192.168.43.1 -u -n 500M -b 100M
+------------------------------------------------------------
+Client connecting to 192.168.43.1, UDP port 5001
+Sending 1470 byte datagrams
+UDP buffer size:  208 KByte (default)
+------------------------------------------------------------
+[  3] local 192.168.43.58 port 55243 connected with 192.168.43.1 port 5001
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0-82.9 sec   500 MBytes  50.6 Mbits/sec
+[  3] Sent 356659 datagrams
+[  3] Server Report:
+[  3]  0.0-82.9 sec   493 MBytes  49.9 Mbits/sec   0.217 ms 5197/356658 (1.5%)
+[  3]  0.0-82.9 sec  3 datagrams received out-of-order
+
+****************************************************************************************
+
+NFrames = 11
+root@Mohammad-Laptop:~# iperf -c 192.168.43.1 -u -n 500M -b 100M
+------------------------------------------------------------
+Client connecting to 192.168.43.1, UDP port 5001
+Sending 1470 byte datagrams
+UDP buffer size:  208 KByte (default)
+------------------------------------------------------------
+[  3] local 192.168.43.58 port 41758 connected with 192.168.43.1 port 5001
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0-82.8 sec   500 MBytes  50.7 Mbits/sec
+[  3] Sent 356659 datagrams
+[  3] Server Report:
+[  3]  0.0-82.5 sec   495 MBytes  50.3 Mbits/sec   0.269 ms 3807/356658 (1.1%)
+[  3]  0.0-82.5 sec  3 datagrams received out-of-order
+
+****************************************************************************************
+
+NFrames = 16
+root@Mohammad-Laptop:~# iperf -c 192.168.43.1 -u -n 500M -b 100M
+------------------------------------------------------------
+Client connecting to 192.168.43.1, UDP port 5001
+Sending 1470 byte datagrams
+UDP buffer size:  208 KByte (default)
+------------------------------------------------------------
+[  3] local 192.168.43.58 port 48597 connected with 192.168.43.1 port 5001
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0-82.1 sec   500 MBytes  51.1 Mbits/sec
+[  3] Sent 356659 datagrams
+[  3] Server Report:
+[  3]  0.0-81.7 sec   492 MBytes  50.4 Mbits/sec   0.167 ms 6003/356658 (1.7%)
+[  3]  0.0-81.7 sec  3 datagrams received out-of-order
+
+****************************************************************************************
+
+NFrames = 20
+root@Mohammad-Laptop:~# iperf -c 192.168.43.1 -u -n 500M -b 100M
+------------------------------------------------------------
+Client connecting to 192.168.43.1, UDP port 5001
+Sending 1470 byte datagrams
+UDP buffer size:  208 KByte (default)
+------------------------------------------------------------
+[  3] local 192.168.43.58 port 33560 connected with 192.168.43.1 port 5001
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0-80.1 sec   500 MBytes  52.4 Mbits/sec
+[  3] Sent 356659 datagrams
+[  3] Server Report:
+[  3]  0.0-79.8 sec   495 MBytes  52.0 Mbits/sec   0.524 ms 3751/356658 (1.1%)
+[  3]  0.0-79.8 sec  1 datagrams received out-of-order
